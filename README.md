@@ -3,7 +3,6 @@ XYZ format resume bullets — a Claude Agent Skill that rewrites weak, task-orie
 # claude-skill-xyz-resume-bullets
 
 [![Claude Skill](https://img.shields.io/badge/Claude-Agent%20Skill-9E7BFF)](https://claude.ai)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Turn raw, duty-focused resume lines into polished **XYZ-format achievement bullets** — *"Accomplished [X], as measured by [Y], by doing [Z]"* — the format popularized by Google and used by hiring managers at top tech companies. Built as a [Claude Agent Skill](https://claude.ai) so you can rewrite bullets directly inside Claude.
 
@@ -59,7 +58,3 @@ These are merged into one natural, recruiter-ready sentence — never shown as a
 ## Contributing
 
 Issues and pull requests are welcome — especially additional worked examples and edge cases for the placeholder catalog.
-
-## License
-
-MIT
